@@ -72,6 +72,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
+                      
         title: 이크레더블
         link: https://www.ecredible.co.kr
         sub_title: 정보기획팀 데이터분석가
