@@ -6,38 +6,38 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: 김 소 정(sojeong kim)
+title: 금융권 출신 데이터 분석가, CSS 모델러
+email: sjhd1109@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+# phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://sjhd1109.github.io/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
+# twitter_username: jekyllrb
+github_username:  sjhd1109
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
 linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# orcid_username: 0000-0000-0000-0000
+# googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,35 +52,74 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  금융 데이터 분석을 기반으로 다양한 평가모델과 타겟모델 구축의 퍼포먼스를 내는 데이터 분석가 입니다.<br/>
+  저는 분석하고자 하는 목적과 그 대상이 원하는 전체적인 프로세스를 가장 우선적으로 이해하고자 하는 <mark>서비스 지향의 데이터 분석가</mark> 입니다.<br/>
+  
+  2년간의 금융권 심사 및 대출 상담 업무와 디지털 퍼포먼스 담당을 통해 고객과 담당자에 대한 니즈를 파악할 수 있었고, 이를 기반으로 데이터 분석을 통해 유의미한 인사이트를 도출해 내었습니다.
+  또한, 비즈니스 전반에 대한 이해 뿐만 아니라 영역을 넓혀 활용 가능한 데이터도 끊임없이 연구하고 있습니다.<br/>
+  
+  현재는 여신 관련 서비스 데이터 분석과 신용평가, 연체모형 등의 전통적인 모형 뿐만 아니라 다양한 서비스 관련 모형과 ESG 모형 등의 새로운 모형 개발까지 확장하여 다양한 모형 개발을 하는 업무를 하고 있습니다.
+  
+  데이터 분석가가 되어 가장 많이 하는 말이 있습니다. "이렇게 해보는건 어떤가요?" 팀원들과 끊임없이 연구하고 부딪쳐보고 같이 발전해가면서 스스로의 성장과 모두의 성장을 이뤄나갈 수 있는 
+  곳에서 저의 역량을 발휘하고 싶습니다. 
+  
 
 content:
-  - title: Projects # Title for the section
+  - title: Experience  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: 이크레더블
+        link: https://www.ecredible.co.kr
+        sub_title: 정보기획팀 데이터분석가
+        caption: 2022.01 ~ 현재
+        # link_text: Link Text
+        # additional_links:
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    icon: fab fa-github
+        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    icon: fab fa-github
+        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          기업신용인증시장의 마켓리더로서 독보적인 시장지위 유지
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+        
+          - 여신 관련 정보 서비스 제공을 위한 재무, 비재무 데이터 분석 
+          - 고객 타겟팅 스코어링 분석 및 개발
+          - 여신 관련 예측 모형 개발
+          - 평가 모형 개발(ESG 모형 등 기업 평가 모형)
+          
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: 하나캐피탈
+        link: https://www.hanacapital.co.kr/
+        sub_title: 서초지점, 디지털금융팀 주임
+        caption: 2018.01 ~ 2020.03
+        # link_text: Link Text
+        # additional_links:
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    icon: fab fa-github
+        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    icon: fab fa-github
+        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          하나금융그룹 하나캐피탈, 리테일 중심의 여신전문금융회사
+        description: | # this will include new lines to allow paragraphs
+        
+          - 자동차 대출(할부금융, 리스 등) 신용평가 및 심사, 대출 영업담당, 지점 계수 관리, <mark>1위 실적 지점 선정</mark>
+          - 디지털 브랜딩 TFT 선정 : 디지털 기업 브랜딩 기획
+          - 디지털 채널 고객 유입 데이터 분석, 소비자금융 Cross-sell 분석을 통한 마케팅 지원
+          - 디지털 전환 관련 업무 프로세스 기획 및 개발
+          - 일반금융부문 영업팀 계수 데이터 추출 및 현황 분석 자료 제공   
+          
+          
   - title: Experience
     layout: list
     content:
